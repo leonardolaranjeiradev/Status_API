@@ -1,0 +1,8 @@
+Programa de automação para monitoramento de APIs.
+
+>>>Funcionalidades:
+
+1. Verifica o status de uma API.
+2. Envia  alerta para um canal no Slack se a API apresentar erro.
+3. Pode ser agendado para rodar automaticamente.
+

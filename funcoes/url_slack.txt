@@ -1,0 +1,19 @@
+Entre no seu workspace Slack no navegador.
+
+Vá até 👉 https://api.slack.com/apps
+
+(esse é o lugar de gerenciar e criar apps).
+
+Clique em "Create New App" → "From scratch".
+
+Dê um nome pro app (ex.: Alerta API) e escolha o workspace.
+
+No menu lateral, vá em "Incoming Webhooks".
+
+Ative o botão "Activate Incoming Webhooks".
+
+Role a página e clique em "Add New Webhook to Workspace".
+
+Escolha o canal onde as mensagens vão chegar e autorize.
+
+Pronto 🚀 — vai aparecer a URL do webhook
